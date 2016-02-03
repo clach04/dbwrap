@@ -1,0 +1,1 @@
+dbwrap creates a convenient wrapper around Python DB-API connections, making dealing with SQL easier.
